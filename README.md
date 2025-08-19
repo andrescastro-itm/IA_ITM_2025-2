@@ -14,3 +14,4 @@ Contenido del curso:
 - Clase 3:
     - [K-NN](/Clase03/kNearestNeighbors.ipynb)
     - [Árboles de decisión](/Clase03/DecisionTrees.ipynb)
+- [Clase 6 - Regresión Lineal](/Clase06/RegresionLineal.ipynb)
