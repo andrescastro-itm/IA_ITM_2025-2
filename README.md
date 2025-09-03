@@ -15,3 +15,6 @@ Contenido del curso:
     - [K-NN](/Clase03/kNearestNeighbors.ipynb)
     - [Árboles de decisión](/Clase03/DecisionTrees.ipynb)
 - [Clase 6 - Regresión Lineal](/Clase06/RegresionLineal.ipynb)
+- Clase 10:
+    - [Regresión Logística](/Clase10/RegresionLogistica.ipynb)
+    - [Autograd de Pytorch](/Clase10/pytorch-autogradEjemploClase.ipynb)
