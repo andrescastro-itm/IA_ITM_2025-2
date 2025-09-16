@@ -18,3 +18,7 @@ Contenido del curso:
 - Clase 10:
     - [Regresión Logística](/Clase10/RegresionLogistica.ipynb)
     - [Autograd de Pytorch](/Clase10/pytorch-autogradEjemploClase.ipynb)
+- [Clase 13 - Regresión Lineal](/Clase13/SVM_kernel.ipynb)
+- Clase 14:
+    - [Softmax Regression](/Clase14/1_softmax_regression_mnist.ipynb)
+    - [MLP Pytorch](/Clase14/2_mlp-pytorch_softmax-crossentr.ipynb)
