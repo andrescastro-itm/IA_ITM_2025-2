@@ -22,3 +22,4 @@ Contenido del curso:
 - Clase 14:
     - [Softmax Regression](/Clase14/1_softmax_regression_mnist.ipynb)
     - [MLP Pytorch](/Clase14/2_mlp-pytorch_softmax-crossentr.ipynb)
+- [Clase 17 - Funciones de activación](/Clase17/xor-problem.ipynb)
