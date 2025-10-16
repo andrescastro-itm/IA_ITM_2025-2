@@ -23,3 +23,9 @@ Contenido del curso:
     - [Softmax Regression](/Clase14/1_softmax_regression_mnist.ipynb)
     - [MLP Pytorch](/Clase14/2_mlp-pytorch_softmax-crossentr.ipynb)
 - [Clase 17 - Funciones de activación](/Clase17/xor-problem.ipynb)
+- Clase 23:
+    - [Ejemplo Convoluciones](/Clase23/1-MLP_CNN.ipynb)
+    - [Convolución y Correlación Cruzada](/Clase23/2-cross-correlation.ipynb)
+    - [Red LeNet](/Clase23/3-lenet5-mnist.ipynb)
+    - [Red AlexNet](/Clase23/4-alexnet-cifar10.ipynb)
+    - [Ejemplo CIFAR10](/Clase23/5-cnn-cifar10.ipynb)
