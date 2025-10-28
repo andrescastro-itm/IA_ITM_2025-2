@@ -29,3 +29,11 @@ Contenido del curso:
     - [Red LeNet](/Clase23/3-lenet5-mnist.ipynb)
     - [Red AlexNet](/Clase23/4-alexnet-cifar10.ipynb)
     - [Ejemplo CIFAR10](/Clase23/5-cnn-cifar10.ipynb)
+- Clase 25:
+    - [Batch Normalization](/Clase25/batchnorm.ipynb)
+    - [Dropout](/Clase25/dropout.ipynb)
+    - [Data Augmentation](/Clase25/data-augmentation.ipynb)
+- Clase 26:
+    - [VGG16](/Clase26/1.1-vgg16.ipynb)
+    - [Resnet](/Clase26/2-resnet-example.ipynb)
+    - [Resnet 34](/Clase26/2-resnet34.ipynb)
