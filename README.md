@@ -37,3 +37,4 @@ Contenido del curso:
     - [VGG16](/Clase26/1.1-vgg16.ipynb)
     - [Resnet](/Clase26/2-resnet-example.ipynb)
     - [Resnet 34](/Clase26/2-resnet34.ipynb)
+- [Clase 28 - Interpretabilidad](/Clase28/Interpretabilidad1.ipynb)
